@@ -1,4 +1,5 @@
-FROM nginx
+# FROM nginx
+FROM nginx:alpine
 
 RUN apk update
 
